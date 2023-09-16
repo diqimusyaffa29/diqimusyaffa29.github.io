@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+.warna-nav:hover{
+    color: #1938D1 !important;
+}
+
+.jumbotron{
+    font-size: 3rem;
+    font-weight: 700 !important; 
+}
+
+.bg-about{
+    background: #0D6EFD !important;
+}
+
+.square-box{
+    max-width: 600px;
+    max-height: 600px;
+    border: 1px solid #333;
+}
+.konten-tengah-1{
+    margin-top: 300px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.section-4{
+    margin: 100px 300px;
+}
+
+.section-5{
+    margin: 200px 300px;
+}
+
+.logo-contact{
+    height: 60px;
+    margin-left: 100px;
+}
+
+.foto-port{
+    width: 700px;
+    height: 300px;
+    margin-left: 100px ;
+}
+
+.active {
+    color: #0D6EFD !important;
+}
